@@ -1,2 +1,2 @@
 # AlgorithmsUN2024II
-Repositorio de trabajos/laboratorios para la materia de Algoritmos de la Universidad Nacional de Colombia.
+Nestor Steven Piraquive Garzon  #22 lista #grupo 1
